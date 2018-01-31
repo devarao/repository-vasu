@@ -1,1 +1,5 @@
- visual mind training and consultancy
+<<<<<<< HEAD
+visual path training and consualtancy
+=======
+
+
