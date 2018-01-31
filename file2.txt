@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is visualpath for devops trtaining
+=======
+kldjfkdjfdfj
+jkdfjd;fdfl
+dkfjdklfj
+>>>>>>> development
